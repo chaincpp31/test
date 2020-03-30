@@ -87,7 +87,7 @@
           </a>
           <div class="desc">
             <p>เสื้อนักศึกษาแขนสั้น<br>ผู้หญิง<br></p>
-            <p style="float:left">฿250</p>
+            <p style="float:left">฿25</p>
             <input style="float:right" type="submit" name="shirt1buy" value="Buy">
           </div>
         </div>
